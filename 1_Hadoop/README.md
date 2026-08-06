@@ -129,7 +129,8 @@ After completing this section, I understood:
 
 ---
 
-## Status
-
-- ✅ Hadoop Fundamentals Completed
-- ✅ Ready to Learn Apache Spark
+## Resources
+- Great Learning YouTube Channel
+- Gate Smashes YouTube Channel
+- Hadoop Official Documentation
+- Apache Spark Official Documentation

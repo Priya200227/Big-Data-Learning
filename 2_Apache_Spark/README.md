@@ -63,7 +63,8 @@ This folder documents my learning journey of Apache Spark fundamentals, covering
 
 ## Resources
 
-- Ansh Lamba
-- Apache Spark Documentation
-- Databricks Documentation
+- Ansh Lamba YouTube Channel
+- Afaque Ahmad YouTube Channel
+- Apache Spark Official Documentation
+- Databricks Official Documentation
 

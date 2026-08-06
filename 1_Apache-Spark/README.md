@@ -48,8 +48,6 @@ This folder documents my learning journey of Apache Spark fundamentals, covering
 - Broadcast Variables
 - Accumulators
 - Checkpointing
-- Tungsten Engine
-- Whole-Stage Code Generation
 - Vectorized Execution
 
 ---

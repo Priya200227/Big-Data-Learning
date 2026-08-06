@@ -6,6 +6,7 @@ A hands-on learning repository documenting my journey into **Big Data Engineerin
 
 ## 📚 Learning Roadmap
 
+- ✅ Hadoop
 - ✅ Apache Spark
 - ⏳ Spark SQL
 - ⏳ PySpark
@@ -22,7 +23,8 @@ A hands-on learning repository documenting my journey into **Big Data Engineerin
 ```text
 Big-Data-Learning/
 │
-├── Apache-Spark/
+├── Hadoop/
+|── Apache-Spark/
 ├── Spark-SQL/
 ├── PySpark/
 ├── Databricks/

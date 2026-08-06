@@ -51,6 +51,7 @@ Big-Data-Learning/
 
 ## 🛠️ Technologies
 
+- Hadoop
 - Apache Spark
 - Spark SQL
 - PySpark
@@ -71,6 +72,7 @@ The goal of this repository is to build a strong foundation in Big Data technolo
 
 | Topic | Status |
 |--------|--------|
+| Hadoop| ✅ Completed |
 | Apache Spark | ✅ In Progress |
 | Spark SQL | ⏳ Planned |
 | PySpark | ⏳ Planned |

@@ -58,3 +58,11 @@ This folder documents my learning journey of Apache Spark fundamentals, covering
 - Apache Spark
 - Spark Connect
 - Python (PySpark environment)
+
+---
+
+## Resources
+
+- Ansh Lamba
+- Apache Spark Documentation
+- Databricks Documentation

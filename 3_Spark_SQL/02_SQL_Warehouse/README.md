@@ -161,6 +161,10 @@ Hands-on practice with:
 - [Databricks SQL – Query Caching](https://docs.databricks.com/aws/en/sql/user/queries/query-caching)
 - [Databricks SQL – Alerts](https://docs.databricks.com/aws/en/sql/user/alerts/)
 
+### YouTube
+
+- [Ansh Lamba Tutorial](https://www.youtube.com/watch?v=BHfzkuBEiwI)
+
 ---
 
 ## 🎯 Learning Goal

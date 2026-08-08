@@ -60,3 +60,9 @@ The following queries were created and executed in **Databricks SQL Editor**.
 ## 🎯 Learning Objective
 
 Understand how **SQL works within the Apache Spark ecosystem**, including working with views, tables, Delta Lake, data manipulation, security features, and analytical SQL.
+
+## Resources
+
+- Databricks Official Documentation
+- Learn Microsoft Official Documentation
+- Ansh Lamba YouTube Channel

@@ -22,35 +22,7 @@ This section documents my learning and hands-on practice with **Databricks SQL W
 - Cluster management
 
 ---
-
-### 2. Query Parameters
-
-- Creating dynamic SQL queries using parameters
-- Parameter markers
-- Using parameters for dynamic filtering
-- Using parameters as identifiers
-- Dynamic catalog, schema, and table references
-
-**Hands-on Query:**
-
-[`Query Parameters`](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/queries/96730722773759?o=7474657941551817)
-
----
-
-### 3. Query Snippets
-
-- Creating reusable SQL code snippets
-- Using placeholders
-- Parameterizing reusable SQL code
-- Reducing repetitive SQL writing
-
-**Hands-on Query:**
-
-[`Query Snippet`](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/queries/96730722773760?o=7474657941551817)
-
----
-
-### 4. SQL Initialization
+### 2. SQL Initialization
 
 Hands-on practice with:
 
@@ -64,6 +36,33 @@ Hands-on practice with:
 **Hands-on Query:**
 
 [`query_init`](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/queries/96730722773758?o=7474657941551817)
+
+---
+
+### 3. Query Parameters
+
+- Creating dynamic SQL queries using parameters
+- Parameter markers
+- Using parameters for dynamic filtering
+- Using parameters as identifiers
+- Dynamic catalog, schema, and table references
+
+**Hands-on Query:**
+
+[`Query Parameters`](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/queries/96730722773759?o=7474657941551817)
+
+---
+
+### 4. Query Snippets
+
+- Creating reusable SQL code snippets
+- Using placeholders
+- Parameterizing reusable SQL code
+- Reducing repetitive SQL writing
+
+**Hands-on Query:**
+
+[`Query Snippet`](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/queries/96730722773760?o=7474657941551817)
 
 ---
 

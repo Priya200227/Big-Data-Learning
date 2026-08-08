@@ -77,5 +77,3 @@ The objective of this section is to understand how **SQL works in distributed da
 - Incremental data processing
 - CDC and historical data management
 - SQL-based analytics on Databricks
-
----

@@ -55,9 +55,7 @@ Understand how **SQL works within the Apache Spark ecosystem**, including workin
 
 ## Resources
 
-- Databricks Official Documentation 
-[UDFs in Unity Catalog in AWS](https://docs.databricks.com/aws/en/udf/unity-catalog)
-- Learn Microsoft Official Documentation
-  [Masking](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/filters-and-masks/manually-apply)
-  [UDFs in Unity Catalog in Azure](https://learn.microsoft.com/en-us/azure/databricks/udf/unity-catalog)
+- [UDFs in Unity Catalog in AWS](https://docs.databricks.com/aws/en/udf/unity-catalog)
+- [Masking](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/filters-and-masks/manually-apply)
+- [UDFs in Unity Catalog in Azure](https://learn.microsoft.com/en-us/azure/databricks/udf/unity-catalog)
 - [Ansh Lamba YouTube Channel](https://www.youtube.com/watch?v=b0TCqhP2P7I&t=67s)

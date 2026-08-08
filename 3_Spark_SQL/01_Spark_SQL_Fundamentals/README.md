@@ -49,14 +49,6 @@ The following queries were created and executed in **Databricks SQL Editor**.
 > **Note:** These queries are hosted in my Databricks workspace and are linked here because Databricks SQL Editor queries cannot be downloaded as source files.
 
 ---
-
-## 🛠️ Platform
-
-- Databricks Free Edition
-- Spark SQL
-- Delta Lake
-- Databricks SQL Editor
-
 ## 🎯 Learning Objective
 
 Understand how **SQL works within the Apache Spark ecosystem**, including working with views, tables, Delta Lake, data manipulation, security features, and analytical SQL.
@@ -68,4 +60,4 @@ Understand how **SQL works within the Apache Spark ecosystem**, including workin
 - Learn Microsoft Official Documentation
   [Masking](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/filters-and-masks/manually-apply)
   [UDFs in Unity Catalog in Azure](https://learn.microsoft.com/en-us/azure/databricks/udf/unity-catalog)
-- Ansh Lamba YouTube Channel
+- [Ansh Lamba YouTube Channel](https://www.youtube.com/watch?v=b0TCqhP2P7I&t=67s)

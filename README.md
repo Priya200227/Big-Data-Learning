@@ -8,7 +8,7 @@ A hands-on learning repository documenting my journey into **Big Data Engineerin
 
 - ✅ Hadoop
 - ✅ Apache Spark
-- ⏳ Spark SQL
+- ✅ Spark SQL
 - ⏳ PySpark
 - ⏳ Databricks
 - ⏳ Delta Lake
@@ -74,7 +74,7 @@ The goal of this repository is to build a strong foundation in Big Data technolo
 |--------|--------|
 | Hadoop| ✅ Completed |
 | Apache Spark | ✅ In Progress |
-| Spark SQL | ⏳ Planned |
+| Spark SQL | ✅ In Progress |
 | PySpark | ⏳ Planned |
 | Databricks | ⏳ Planned |
 | Delta Lake | ⏳ Planned |

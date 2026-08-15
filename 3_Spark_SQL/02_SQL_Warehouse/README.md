@@ -13,7 +13,7 @@ This section documents my learning and hands-on practice with **Databricks SQL W
 - SQL Warehouse types:
   - Serverless
   - Pro
-  - Classic
+  - Classic 
 - Photon Engine
 - Predictive I/O
 - Intelligent Workload Management (IWM)

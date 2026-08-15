@@ -1,6 +1,6 @@
 # 🏢 Databricks SQL Warehouse
 
-This section documents my learning and hands-on practice with **Databricks SQL Warehouse** using Databricks Free Edition.
+This section documents my learning and hands-on practice with **Databricks SQL Warehouse** using Databricks Free Edition. 
 
 ---
 

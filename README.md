@@ -3,18 +3,19 @@
 A hands-on learning repository documenting my journey into **Big Data Engineering**. This repository contains structured notes, code examples, hands-on exercises, and mini-projects covering Apache Spark, Spark SQL, PySpark, Databricks, Delta Lake, and related Big Data technologies.
 
 ---
+## 📌 Progress
 
-## 📚 Learning Roadmap
-
-- ✅ Hadoop
-- ✅ Apache Spark
-- ✅ Spark SQL
-- ⏳ PySpark
-- ⏳ Databricks
-- ⏳ Delta Lake
-- ⏳ Unity Catalog
-- ⏳ Structured Streaming
-- ⏳ Big Data Projects
+| Topic | Status |
+|--------|--------|
+| Hadoop| ✅ Completed |
+| Apache Spark | ✅ In Progress |
+| Spark SQL | ✅ In Progress |
+| PySpark | ⏳ Planned |
+| Databricks | ⏳ Planned |
+| Delta Lake | ⏳ Planned |
+| Unity Catalog | ⏳ Planned |
+| Structured Streaming | ⏳ Planned |
+| Projects | ⏳ Planned |
 
 ---
 
@@ -65,22 +66,6 @@ Big-Data-Learning/
 ## 🎯 Goal
 
 The goal of this repository is to build a strong foundation in Big Data technologies through structured learning and practical implementation while creating a portfolio that demonstrates real-world skills.
-
----
-
-## 📌 Progress
-
-| Topic | Status |
-|--------|--------|
-| Hadoop| ✅ Completed |
-| Apache Spark | ✅ In Progress |
-| Spark SQL | ✅ In Progress |
-| PySpark | ⏳ Planned |
-| Databricks | ⏳ Planned |
-| Delta Lake | ⏳ Planned |
-| Unity Catalog | ⏳ Planned |
-| Structured Streaming | ⏳ Planned |
-| Projects | ⏳ Planned |
 
 ---
 

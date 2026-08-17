@@ -9,8 +9,8 @@ A hands-on learning repository documenting my journey into **Big Data Engineerin
 | Topic | Status |
 |--------|--------|
 | Hadoop| ✅ Completed |
-| Apache Spark | ✅ In Progress |
-| Spark SQL | ✅ In Progress |
+| Apache Spark | ✅ Completed |
+| Spark SQL | ✅ Completed |
 | PySpark | ⏳ Planned |
 | Databricks | ⏳ Planned |
 | Delta Lake | ⏳ Planned |

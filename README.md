@@ -51,19 +51,6 @@ Big-Data-Learning/
 
 ---
 
-## 🛠️ Technologies
-
-- Hadoop
-- Apache Spark
-- Spark SQL
-- PySpark
-- Databricks
-- Delta Lake
-- Python
-- SQL
-
----
-
 ## 🎯 Goal
 
 The goal of this repository is to build a strong foundation in Big Data technologies through structured learning and practical implementation while creating a portfolio that demonstrates real-world skills.

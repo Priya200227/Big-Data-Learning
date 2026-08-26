@@ -63,8 +63,9 @@ This folder documents my learning journey of Apache Spark fundamentals, covering
 
 ## Resources
 
-- Ansh Lamba YouTube Channel
-- Afaque Ahmad YouTube Channel
-- Apache Spark Official Documentation
-- Databricks Official Documentation
-
+- [Ansh Lamba Apache Spark Video](https://youtu.be/FNJze2Ea780?si=a0Uz3OPVW6rtSGIt)
+- [Afaque Ahmad 30 Concepts Video](https://youtu.be/z4Owc8RRApg?si=hAIU39Uzn4lss_Te)
+- [Apache Spark Connect Doc](https://spark.apache.org/spark-connect/)
+- [Cluster Mode Doc](https://spark.apache.org/docs/latest/cluster-overview.html)
+- [Spark Engine Plan Doc](https://downloads.apache.org/spark/docs/3.4.1/sql-ref-syntax-qry-explain.html?utm_source=chatgpt.com)
+- [Performance Tuning Doc](https://spark.apache.org/docs/latest/sql-performance-tuning.html)

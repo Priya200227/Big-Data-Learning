@@ -53,7 +53,7 @@ The following queries were created and executed in **Databricks SQL Editor**.
 
 Understand how **SQL works within the Apache Spark ecosystem**, including working with views, tables, Delta Lake, data manipulation, security features, and analytical SQL.
 
-## Resources
+## Learning Resources
 
 - [UDFs in Unity Catalog](https://docs.databricks.com/aws/en/udf/unity-catalog)
 - [Masking](https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/filters-and-masks/manually-apply)

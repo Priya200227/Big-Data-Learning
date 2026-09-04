@@ -281,20 +281,4 @@ The overall goal of PySpark optimization is:
 * [Apache Spark – Tuning Guide](https://spark.apache.org/docs/latest/tuning.html)
 * [Apache Spark – Join & Partitioning Hints](https://spark.apache.org/docs/latest/sql-ref-syntax-qry-select-hints.html)
 * [Apache Spark – RDD Programming Guide](https://spark.apache.org/docs/latest/rdd-programming-guide.html)
-
----
-
-## Learning Status
-
-**Status: Completed ✅**
-
-Topics completed:
-
-* [x] Partition Pruning
-* [x] Join Optimization
-* [x] Cache & Persist
-* [x] Adaptive Query Execution (AQE)
-* [x] Dynamic Partition Pruning (DPP)
-* [x] Salting
-* [x] Broadcast Variables
-
+* [Ansh Lamba YouTube Tutorial](https://www.youtube.com/watch?v=CY_WaxCxJco&t=40s)

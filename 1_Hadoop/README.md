@@ -110,27 +110,8 @@ Spark was introduced to overcome MapReduce limitations by providing:
 
 ---
 
-## Tools Used
-
-- Apache Hadoop (Concepts)
-- Apache Spark (Comparison)
-
----
-
-## Learning Outcome
-
-After completing this section, I understood:
-
-- Why Big Data frameworks were needed
-- Why distributed computing became essential
-- How Hadoop stores and processes large datasets
-- The limitations of MapReduce
-- Why Apache Spark became the modern Big Data processing engine
-
----
-
-## Resources
-- Great Learning YouTube Channel
-- Gate Smashes YouTube Channel
-- Hadoop Official Documentation
-- Apache Spark Official Documentation
+## Learning Resources
+- [Great Learning YouTube Channel](https://youtu.be/JK2MdJAWEGc?si=aeNuhMpxWj2LvOus)
+- [Gate Smashers YouTube Channel](https://youtu.be/8r7kHT4K1pA?si=3OEO_yrRj-6wEL5Z)
+- [Hadoop Official Documentation](https://hadoop.apache.org/docs/r3.5.0/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
+- [Apache Spark Official Documentation](https://spark.apache.org/docs/latest/)

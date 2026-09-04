@@ -71,3 +71,7 @@ For detailed notes and implementations, refer *PySpark Optimization* folder
 The practical implementations were performed using the current Databricks Free Edition environment.
 
 Some older PySpark tutorials use Databricks Community Edition and APIs/features that are not available in the current serverless Free Edition environment.
+
+### Resources
+
+- [Ansh Lamba PySpark Tutorial](https://www.youtube.com/watch?v=94w6hPk7nkM&t=21039s)

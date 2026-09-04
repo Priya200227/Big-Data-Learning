@@ -254,8 +254,8 @@ The concepts were implemented and practiced in Databricks Free Edition.
 | Cache & Persist           | [Notebook](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/notebooks/2758355662344704?o=7474657941551817) |
 | AQE                       | [Notebook](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/notebooks/2758355662344705?o=7474657941551817) |
 | Dynamic Partition Pruning | [Notebook](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/notebooks/2758355662344707?o=7474657941551817) |
-| Salting                   | [Notebook](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/notebooks/3060269169367847?o=7474657941551817) |
-| Broadcast Variables       | [Notebook](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/notebooks/3060269169367850?o=7474657941551817) |
+| Salting                   | [Notebook](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/notebooks/3060269169367847?o=7474657941551817) | [Notebook](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/notebooks/3060269169367850?o=7474657941551817)
+| Broadcast Variables       | [Notebook](https://dbc-eac9dd69-52db.cloud.databricks.com/editor/notebooks/2758355662344707?o=7474657941551817) |
 
 ---
 

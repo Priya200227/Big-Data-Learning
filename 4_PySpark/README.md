@@ -53,9 +53,7 @@ Performance optimization techniques studied and implemented using PySpark:
 * Salting
 * Broadcast Variables
 
-For detailed notes and implementations:
-
-**[PySpark Optimization]**
+For detailed notes and implementations, refer *PySpark Optimization* folder
 
 ---
 

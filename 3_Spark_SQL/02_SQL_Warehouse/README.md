@@ -164,21 +164,3 @@ Hands-on practice with:
 ### YouTube
 
 - [Ansh Lamba Tutorial](https://www.youtube.com/watch?v=BHfzkuBEiwI)
-
----
-
-## 🎯 Learning Goal
-
-The goal of this section is to understand how **Databricks SQL Warehouse** provides SQL-based analytics capabilities on the Databricks platform, including:
-
-- SQL compute
-- Warehouse management
-- Dynamic SQL
-- Reusable SQL development
-- Incremental data processing
-- Change Data Capture
-- Slowly Changing Dimensions
-- Query caching
-- SQL alerts
-
-The focus is on understanding the concepts and gaining hands-on experience through Databricks SQL queries.

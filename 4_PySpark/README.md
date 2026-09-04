@@ -55,7 +55,7 @@ Performance optimization techniques studied and implemented using PySpark:
 
 For detailed notes and implementations:
 
-**[PySpark Optimization →](./PySpark%20Optimization/README.md)**
+**[PySpark Optimization →](4_PySpark/PySpark_Optimization/README.md)**
 
 ---
 

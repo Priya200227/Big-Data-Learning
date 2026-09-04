@@ -11,7 +11,7 @@ A hands-on learning repository documenting my journey into **Big Data Engineerin
 | Hadoop| ✅ Completed |
 | Apache Spark | ✅ Completed |
 | Spark SQL | ✅ Completed |
-| PySpark | ⏳ Ongoing |
+| PySpark | ✅ Completed |
 | Databricks | ⏳ Planned |
 | Delta Lake | ⏳ Planned |
 | Unity Catalog | ⏳ Planned |

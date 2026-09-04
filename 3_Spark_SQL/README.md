@@ -63,17 +63,3 @@ Topics covered:
 - SQL Alerts
 
 Hands-on SQL queries and learning resources are documented inside the respective folder.
-
----
-
-## 🎯 Learning Objective
-
-The objective of this section is to understand how **SQL works in distributed data processing environments** and how Spark SQL and Databricks SQL are used for:
-
-- Big-data analytics
-- Data transformation
-- Distributed query processing
-- Delta Lake operations
-- Incremental data processing
-- CDC and historical data management
-- SQL-based analytics on Databricks

@@ -2,7 +2,7 @@
 
 This section covers the major PySpark optimization techniques I studied and implemented using Databricks Free Edition.
 
-The focus was on understanding **why Spark jobs slow down, where performance bottlenecks occur, and how Spark can reduce unnecessary computation, data movement, and memory usage. ** ****
+The focus was on understanding **why Spark jobs slow down, where performance bottlenecks occur, and how Spark can reduce unnecessary computation, data movement, and memory usage.** 
 
 ---
 

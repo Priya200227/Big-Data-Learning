@@ -49,10 +49,6 @@ The following queries were created and executed in **Databricks SQL Editor**.
 > **Note:** These queries are hosted in my Databricks workspace and are linked here because Databricks SQL Editor queries cannot be downloaded as source files.
 
 ---
-## 🎯 Learning Objective
-
-Understand how **SQL works within the Apache Spark ecosystem**, including working with views, tables, Delta Lake, data manipulation, security features, and analytical SQL.
-
 ## Learning Resources
 
 - [UDFs in Unity Catalog](https://docs.databricks.com/aws/en/udf/unity-catalog)

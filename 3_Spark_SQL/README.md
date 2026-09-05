@@ -58,7 +58,7 @@ Topics covered:
 - Streaming Tables
 - Incremental data processing
 - Auto CDC
-- Slowly Changing Dimensions (SCD Type 2)
+- Slowly Changing Dimensions
 - Query Caching
 - SQL Alerts
 
